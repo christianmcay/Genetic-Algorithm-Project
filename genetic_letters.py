@@ -32,7 +32,8 @@ def get_fitness(guess):
 
 """  
 fitness for this genetic algorithm is total number of letters in the guess
-that much the letter in the same position of the target defined
+that match the letter in the same position of the target defined
+
 zip functions allows iteration over two lists at the same time
 """
 
